@@ -65,5 +65,3 @@ Implemented a **content-based filtering function** `interactive_recommendation()
 | Plotly Express   | Interactive data visualization   |
 | Matplotlib       | Traditional plotting             |
 
----
-
