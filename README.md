@@ -1,7 +1,5 @@
 # 🎬 Streaming Shows Analytics and Recommendation System
-
-This Jupyter Notebook presents a complete data science and analytics workflow applied to a dataset of streaming shows. It highlights strong data handling, visualization, and entry-level machine learning application skills relevant to data analyst and data scientist roles.
-
+This project demonstrates a comprehensive data science and analytics workflow applied to a streaming shows dataset, highlighting strong data handling, visualization, and foundational machine learning skills.
 ---
 
 ## 🎯 Project Objective
